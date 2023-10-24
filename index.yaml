@@ -13,6 +13,6 @@ entries:
     name: thumbor
     type: application
     urls:
-    - https://github.com/thumbor/helm/releases/download/thumbor-0.1.0/thumbor-0.1.0.tgz
+    - https://github.com/markoheijnen/thumbor-helm/releases/download/thumbor-0.1.0/thumbor-0.1.0.tgz
     version: 0.1.0
 generated: "2022-10-18T21:05:01.200056442Z"
