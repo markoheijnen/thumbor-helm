@@ -448,7 +448,7 @@ true
 			<td>thumbor_config.content</td>
 			<td>string</td>
 			<td><pre lang="json">
-"AUTO_WEBP = True\n"
+"AUTO_WEBP = True"
 </pre>
 </td>
 			<td></td>
