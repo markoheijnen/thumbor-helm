@@ -83,7 +83,7 @@ thumbor_config:
     enabled: true
     enable_redis: true
 
-  content: |
+  content: |-
     AUTO_WEBP = True
 
 thumbor_config_existing_secret: ""
